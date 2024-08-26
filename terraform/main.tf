@@ -4,8 +4,8 @@ module "sandbox" {
   control_tower_parameters = {
     AccountEmail              = "dummyrox123@gmail.com"
     AccountName               = "sandbox-aft"
-    ManagedOrganizationalUnit = "Learn AFT"
-    SSOUserEmail              = "tantionochris@gmail.com"
+    ManagedOrganizationalUnit = "Account Factory for Terraform"
+    SSOUserEmail              = "dummyrox123@gmail.com"
     SSOUserFirstName          = "Sandbox"
     SSOUserLastName           = "AFT"
   }
