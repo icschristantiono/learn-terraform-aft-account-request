@@ -20,7 +20,7 @@ module "sandbox" {
   }
 
   custom_fields = {
-    group = "non-prod"
+    group = "sandbox-testing-aft-tion"
   }
 
   account_customizations_name = "sandbox"
