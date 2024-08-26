@@ -23,5 +23,5 @@ module "sandbox" {
     group = "sandbox-testing-aft-tion"
   }
 
-  account_customizations_name = "sandbox"
+  account_customizations_name = "sandbox-aft-testing"
 }
